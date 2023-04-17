@@ -24,12 +24,13 @@ body {
 
 .tribute blockquote {
   text-align: center;
-  font-size: 50px;
+  font-size: 70px;
   margin: auto;
 }
 
 .tribute img {
-  max-width: 400px;
+  max-width: 500px;
+  padding-left: 200px;
 }
 .tribute:hover{
   background-color: gold;
