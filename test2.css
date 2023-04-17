@@ -1,0 +1,46 @@
+body {
+  font-family: Times, serif;
+  color: white;
+  background-color: black;
+}
+.title{
+  text-align: center;
+  font-size: 50px;
+}
+.date{
+  text-align: center;
+  font-size: 30px;
+}
+.tribute {
+  display: grid;
+  grid-template-columns: 2fr 2fr;     
+  background: white;
+  color: black;
+  margin-top: 90px;
+  margin-left: 600px;
+  margin-right:500px;
+  margin-bottom: 100px;
+}
+
+.tribute blockquote {
+  text-align: center;
+  font-size: 50px;
+  margin: auto;
+}
+
+.tribute img {
+  max-width: 400px;
+}
+.tribute:hover{
+  background-color: gold;
+}
+.paragraph{
+  color: white;
+  font-size: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.head{
+  text-align: center;
+  font-size: 50px;
+}
